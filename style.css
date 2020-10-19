@@ -1,0 +1,95 @@
+body{
+	background: #f5fafa;
+	text-align: center;
+	font-size: 30px;
+}
+.inder{
+	font-size: 50px;
+	text-decoration: underline;
+}
+.inder:hover{
+	text-decoration: none;
+}
+.ww{
+	font-size: 25px;
+}
+.www{
+	font-size: 20px;
+	font-family: cursive;
+}
+a {
+	position: absolute;
+	top: 0;
+	left: 0;
+	text-decoration: none;
+	outline: none;
+	text-shadow: 1px 1px 2px black;
+	display: inline-block;
+	color: white;
+	padding: 20px 30px;
+	margin: 10px 20px;
+	border-radius: 10px;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	background-image: linear-gradient(to right, #def3fc 0%, #81cff0 51%, #def3fc 100%);
+	background-size: 200% auto;
+	box-shadow: 0 0 20px rgba(0,0,0,.1);
+	transition: .5s;
+ }
+ a:hover {background-position: right center;}
+.yel{
+color: #f4f716;
+}
+.blu{
+	color: #3416f7;
+}
+.gre{
+	color: #16f72d;
+}
+.red{
+	color: #f71625;
+}
+.ora{
+	color: #f7ac16;
+}
+.sir{
+	color: #d916f7;
+}
+.whi{
+	color: white;
+	text-shadow: 0 0 1em red;
+}
+.bla{
+	color: black;
+}
+.gra{
+	color: gray;
+}
+.laz{
+	color: #16f7e8;
+}
+.pro{
+	color: #f5fafa;
+	text-shadow: 1px 1px 1px black;
+}
+.c1{
+	font-family: 'Roboto Mono', monospace;
+}
+.c2{
+	font-family: 'Oswald', sans-serif;
+	font-style: italic;
+}
+.c3{
+	font-family: 'Chilanka', cursive;
+	font-style: oblique;
+}
+.c4{
+	font-family: 'Piedra';
+}
+.c5{
+	font-family: 'Architects Daughter', cursive;
+}
+.c6{
+	font-family: 'Pacifico', cursive;
+}
